@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    color: #db1e1e; 
+    background-color: rgb(48, 33, 77);
+}
+a {
+    color: #ffffff; 
+    text-decoration: none;
+}

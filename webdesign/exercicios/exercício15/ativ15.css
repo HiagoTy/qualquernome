@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.container {
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    background-color: lightgray;
+    height: 600px;
+    width: 600px;
+    margin: auto;
+justify-content: space-around;
+align-content: space-around;
+
+}
+
+.box {
+
+    background-color: rgba(107, 6, 23, 0.425);
+    height: 100px;
+    width: 100px;
+
+}
