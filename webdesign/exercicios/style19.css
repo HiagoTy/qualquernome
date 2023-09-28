@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+/*body{
+    padding: 60px;
+}*/
+#cabeça{
+    display: grid;
+    grid-template-columns: 9% 50% 9% 9% 9% 1fr;
+}
+#login{
+    background-color: white;
+    border: 2px solid black;
+}
+#login a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.c2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.c3{
+    display: grid;
+    grid-template-columns: 10% 40% 50%;
+}
+.black-buttom{
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+.center{
+    text-align: center;
+}
+.high{
+    text-transform: uppercase;
+}
+.negrito{
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+.small{
+    font-size: x-small;
+}
+.menor{
+    font-size: xx-small;
+}
+.gray{
+    background-color: gray;
+}
+.gray-clean{
+    background-color: lightgrey;
+}
+.black{
+    color: white;
+    background-color: black;
+}
+.black a{
+    color: white;
+    font-size: x-small;
+}
+.black span{
+    font-size: x-small;
+}
